@@ -7,6 +7,7 @@ body{
 }
 #show{
     height:260px;
+    /* width: 409px; */
     background-color: rgba(164, 201, 156, 0.79);
     padding-right: 20px;
 }
